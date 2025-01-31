@@ -83,3 +83,4 @@ Where This Can Be Applied:
 
 OUTPUT:
 
+![Image](https://github.com/user-attachments/assets/514c2975-3c84-4ba3-a505-507b4c53426d)
