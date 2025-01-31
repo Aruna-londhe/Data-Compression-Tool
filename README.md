@@ -80,3 +80,6 @@ Where This Can Be Applied:
 	•	Image file compression
 	•	Medical and fax imaging
 	•	Data transmission
+
+OUTPUT:
+
